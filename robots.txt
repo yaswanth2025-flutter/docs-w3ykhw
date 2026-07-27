@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-y8hycs.cuansalam.cfd/sitemap.xml
